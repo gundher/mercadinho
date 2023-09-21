@@ -1,5 +1,5 @@
 package servicos;
 
-public class Master {
+public class Master extends AbstractService {
 
 }

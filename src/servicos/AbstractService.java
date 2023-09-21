@@ -1,5 +1,5 @@
 package servicos;
 
-public class AbstractService {
+public class AbstractService implements IBandeiraCartao {
 
 }

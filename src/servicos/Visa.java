@@ -1,5 +1,5 @@
 package servicos;
 
-public class Visa {
+public class Visa extends AbstractService {
 
 }

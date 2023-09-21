@@ -1,5 +1,5 @@
 package entidade;
 
-public class Caixa {
+public class Caixa extends Funcionario {
 
 }
